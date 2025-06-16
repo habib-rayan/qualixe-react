@@ -1,0 +1,42 @@
+[
+    {
+        "name" : "Jotey",
+        "image" : "assets/img/jotey.svg",
+        "url" : "https://www.jotey.com.bd"
+    },
+    {
+        "name" : "Nilima",
+        "image" : "assets/img/nilima.svg",
+        "url" : "https://nilima.com.bd"
+    },
+    {
+        "name" : "Zuqo",
+        "image" : "assets/img/zuqo.webp",
+        "url" : "https://zuqo.shop"
+    },
+    {
+        "name" : "Mara-Lab",
+        "image" : "assets/img/maralab.webp",
+        "url" : "https://mara-labs.com"
+    },
+    {
+        "name" : "HT-bazar",
+        "image" : "assets/img/htbazar.avif",
+        "url" : "https://htbazar.com/"
+    },
+    {
+        "name" : "Flemingoo",
+        "image" : "assets/img/flemingoo.avif",
+        "url" : "hhttps://flemingoo.com/"
+    },
+    {
+        "name" : "Bosphorus Fashion",
+        "image" : "assets/img/bosphorus.avif",
+        "url" : "https://bosphorusfashion.com/"
+    },
+    {
+        "name" : "Moiasun",
+        "image" : "assets/img/moiasun.avif",
+        "url" : "https://moiasun.com/"
+    }
+]

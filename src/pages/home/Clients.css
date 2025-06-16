@@ -1,0 +1,55 @@
+.clients-section {
+    padding: 80px 0;
+    background: var(--section-bg);
+}
+
+.cliens-heading {
+    margin-bottom: 40px;
+}
+
+.client-img {
+    max-height: 100px;
+    width: auto;
+    margin: auto;
+    max-width: 100%;
+    padding: 0 30px;
+    height: 100px;
+    object-fit: contain;
+}
+
+.client-item a:focus-visible {
+    outline: none;
+}
+.slick-slide>div {
+    margin: 15px 25px;
+}
+.client-item {
+    box-shadow: 1px 1px 20px #dfe5ff;
+    width: 100%;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+@media only screen and (max-width:767px) {
+    .client-img {
+        padding: 0 15px;
+        height: 80px;
+    }
+    
+    .cliens-heading {
+        margin-bottom: 20px;
+    }
+    .clients-section {
+        padding: 50px 0;
+    }
+    
+    .client-item {
+        box-shadow: 1px 1px 10px #dfe5ff;
+        padding: 0 5px;
+        border-radius: 5px;
+    }
+    .slick-slide>div {
+        margin: 5px;
+    }
+    
+}

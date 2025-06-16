@@ -1,0 +1,57 @@
+[
+    {
+        "id" : 1,
+        "name" : "Jotey",
+        "image" : "assets/img/portfolio-jotery.jpg",
+        "url" : "https://www.jotey.com.bd"
+        
+    },
+    {
+        "id" : 2,
+        "name" : "Zuqo",
+        "image" : "assets/img/portfolio-zuqo.jpg",
+        "url" : "https://zuqo.shop"
+    },
+    {
+        "id" : 3,
+        "name" : "Mara-Lab",
+        "image" : "assets/img/portfolio-maralab.jpg",
+        "url" : "https://mara-labs.com"
+    },
+    {
+        "id" : 4,
+        "name" : "HT-bazar",
+        "image" : "assets/img/portfolio-htbazar.jpg",
+        "url" : "https://htbazar.com/"
+    },
+    {
+        "id" : 5,
+        "name" : "Spirulinabecagli",
+        "image" : "assets/img/portfolio-spiru.jpg",
+        "url" : "https://spirulinabecagli.it/"
+    },
+    {
+        "id" : 6,
+        "name" : "Nilima",
+        "image" : "assets/img/portfolio-nilima.jpg",
+        "url" : "https://nilima.com.bd"
+    },
+    {
+        "id" : 7,
+        "name" : "Flemingoo",
+        "image" : "assets/img/portfolio-flemi.jpg",
+        "url" : "hhttps://flemingoo.com/" 
+    },
+    {
+        "id" : 8,
+        "name" : "South Asian Strong",
+        "image" : "assets/img/portfolio-southasia.jpg",
+        "url" : "https://transform.southasianstrong.com/"
+    },
+    {
+        "id" : 9,
+        "name" : "Moiasun",
+        "image" : "assets/img/portfolio-ahaneon.jpg",
+        "url" : "https://www.ahaneon.com"
+    }
+]
