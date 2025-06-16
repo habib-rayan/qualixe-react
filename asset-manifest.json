@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.363ee8a3.css",
+    "main.js": "/static/js/main.4fd6c10d.js",
+    "static/js/787.4e51e934.chunk.js": "/static/js/787.4e51e934.chunk.js",
+    "static/media/Rubik-Bold.ttf": "/static/media/Rubik-Bold.c934eb22c2c69992b34c.ttf",
+    "static/media/Rubik-Regular.ttf": "/static/media/Rubik-Regular.55fa11cdc8b9a3ee842f.ttf",
+    "static/media/banner-image.webp": "/static/media/banner-image.a051dda6edb7b0dfeefa.webp",
+    "index.html": "/index.html",
+    "main.363ee8a3.css.map": "/static/css/main.363ee8a3.css.map",
+    "main.4fd6c10d.js.map": "/static/js/main.4fd6c10d.js.map",
+    "787.4e51e934.chunk.js.map": "/static/js/787.4e51e934.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.363ee8a3.css",
+    "static/js/main.4fd6c10d.js"
+  ]
+}
