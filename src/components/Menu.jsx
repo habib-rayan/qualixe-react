@@ -14,9 +14,9 @@ function Menu() {
             <li title='Service'>
                 <NavLink to='/services' className={({isActive})=> isActive ? 'active' :''} >Services</NavLink>
             </li>
-            <li title='Service'>
+            {/* <li title='Service'>
                 <NavLink to='/demo' className={({isActive})=> isActive ? 'active' :''} >Demo</NavLink>
-            </li>
+            </li> */}
             <li title='Portfolio'>
                 <NavLink to='/portfolio' className={({isActive})=> isActive ? 'active' :''} >Portfolio</NavLink>
             </li>
