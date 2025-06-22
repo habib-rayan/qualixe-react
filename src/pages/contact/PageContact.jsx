@@ -22,7 +22,7 @@ function Contact() {
                       <div className='contact-content'>
                           <span className='contact-icon'><FaPhone size={28} /></span>
                           <h3 className='contact-heading'>Phone Number</h3>
-                          <Link to={'tel:+88015-481618'} className='contact-link'>+8801521-481618</Link>
+                          <Link to={'tel:+88015-481618'} className='contact-link'>+8801521 481 618</Link>
                       </div>
                   </Col>
                   <Col lg={4} md={4} sm={12} className='text-center'>
@@ -36,7 +36,7 @@ function Contact() {
                       <div className='contact-content'>
                           <span className='contact-icon'><FaMapMarkerAlt size={28} /></span>
                           <h3 className='contact-heading'>Office Location</h3>
-                          <Link className='contact-link'>H-152/18, Pallabi, Mirpur-12, Dhaka, Bd</Link>
+                          <Link className='contact-link'>House-06, Road-3, Mirpur-11, Dhaka, BD</Link>
                       </div>
                   </Col>
               </Row>

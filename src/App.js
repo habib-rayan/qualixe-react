@@ -9,6 +9,7 @@ import Contact from './pages/contact/PageContact';
 import Footer from './components/Footer';
 import Ribon from './components/Ribon';
 import Demo from './pages/demo/PageDemo';
+import WhatsAppChat from './components/whatsappChat';
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
         </Routes>
         <Ribon />
         <Footer />
+        <WhatsAppChat />
     </BrowserRouter> 
   );  
 }

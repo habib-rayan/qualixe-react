@@ -6,7 +6,7 @@ function HeaderButton(props) {
     const {shownav} = props;
     return (
         <div className='header-button'>
-        <Link to={'/'} className='button header-btn'>Contact</Link>
+        <Link to={'https://wa.me/8801521481618'} className='button header-btn'>Contact</Link>
         <span className='navbar-icon' onClick={shownav}>
             <FaBars />
         </span>
