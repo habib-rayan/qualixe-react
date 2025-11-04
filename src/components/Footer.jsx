@@ -36,8 +36,8 @@ function Footer() {
                         <h3 className='footer-heading'>Contact Us</h3>
                         <ul className='footer-contact'>
                             <li><Link to={'mailto:qualixe.info@gmail.com'}><LuMails size={24} /> <span>qualixe.info@gmail.com</span></Link></li>
-                            <li><Link to={'/tell:+8801521481618'}><FaHeadphonesSimple size={24} /> <span>+8801521 481 618</span></Link></li>
-                            <li><Link ><FaMapMarkerAlt size={24} /> <span>House-06, Road-3, Mirpur-11, Dhaka, BD</span> </Link></li>
+                            <li><Link to={'tel:+8801318552266'}><FaHeadphonesSimple size={24} /> <span>+88 01318 55 22 66</span></Link></li>
+                            <li><Link ><FaMapMarkerAlt size={24} /> <span>House-06, Road-3, Mirpur-11, Dhaka, Bangladesh</span> </Link></li>
                         </ul>
                     </Col> 
                     <Col lg={3} md={3} sm={12}> 

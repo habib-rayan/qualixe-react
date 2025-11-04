@@ -1,8 +1,8 @@
 import React from 'react';
 
 const WhatsAppChat = () => {
-  const phoneNumber = '8801521481618'; // Replace with your number
-  const message = 'Hello, I have a question!'; // Optional preset message
+  const phoneNumber = '8801318552266'; // Replace with your number
+  const message = 'Hi! I am interested to know more about your services. Can you please assist?'; 
   const url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
 
   return (
